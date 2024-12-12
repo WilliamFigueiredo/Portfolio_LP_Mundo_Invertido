@@ -1,1 +1,2 @@
-# Portfolio_LP_Mundo_Invertido
+# Portfólio de criação do Mundo Invertido de Strange Things
+Agradecimentos: DIO
